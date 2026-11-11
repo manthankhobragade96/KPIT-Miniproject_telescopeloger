@@ -1,0 +1,19 @@
+# Build output
+build/
+*.o
+*.d
+*.out
+*.exe
+
+# Generated or personal data
+data/observations.txt
+data/observations.txt.tmp
+data/report.txt
+*.log
+core
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.swp
+*~

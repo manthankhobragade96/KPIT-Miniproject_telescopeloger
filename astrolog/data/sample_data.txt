@@ -1,0 +1,11 @@
+ASTROLOG_V1
+1|Moon|0|5|9|2026|1|1000|4|First quarter, lunar mosaic
+2|Jupiter|1|14|9|2026|1|900|3|Planetary video frames
+3|Orion Nebula M42|3|2|10|2026|30|120|4|Clear sky, guided
+4|Orion Nebula M42|3|9|10|2026|60|90|5|Excellent transparency
+5|Andromeda Galaxy M31|4|16|10|2026|120|40|3|Light haze
+6|Pleiades M45|5|21|10|2026|45|60|2|Thin clouds late in the session
+7|Saturn|1|30|10|2026|1|700|4|Rings tilted well
+8|Andromeda Galaxy M31|4|6|11|2026|180|60|5|Best night of the month
+9|Albireo|2|8|11|2026|10|30|3|Double star colour test
+10|Rosette Nebula|3|10|11|2026|90|20|2|Strong moonlight
