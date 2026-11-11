@@ -177,9 +177,9 @@ Every fallible function returns a `Status_t`, and every return value is checked.
 
 | Field | Details |
 |---|---|
-| Name | [Your name] |
-| Roll number | [Roll number] |
-| Division / batch | [Division / batch] |
+| Name | Manthan Ravi Khobragade |
+| Roll number | 612513039 |
+| Division / batch | batch 2 |
 
 ## Known Limitations
 
