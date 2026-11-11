@@ -87,7 +87,7 @@ On older Ubuntu versions `libgtest-dev` ships sources only; build the libraries 
 ## Build Instructions
 
 ```
-git clone https://github.com/<your-username>/astrolog.git
+git clone https://github.com/<manthankhobragade96>/astrolog.git
 cd astrolog
 make all
 ```
