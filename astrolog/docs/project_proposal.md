@@ -6,15 +6,15 @@
 |---|---|
 | Project title | AstroLog: Telescope Observation Log Manager |
 | Engineering domain | Education / Laboratory management (amateur astronomy and astrophotography) |
-| Student name | [Your name] |
-| Roll number | [Roll number] |
-| Division / batch | [Division / batch] |
+| Student name | Manthan Ravi Khobragade |
+| Roll number | 612513039 |
+| Division / batch | Batch 2 |
 | Repository name | astrolog |
-| GitHub repository link | [https://github.com/your-username/astrolog] |
+| GitHub repository link | https://github.com/manthankhobragade96/KPIT-Miniproject_telescopeloger/blob/main/astrolog |
 
 **Individual project declaration.** I confirm that this project is my individual work. I understand the design, source code, unit tests, Makefile and documentation in this repository, and I am prepared to explain or modify any part during evaluation.
 
-Acknowledgement: [Your name, date]
+Acknowledgement: Manthan Ravi Khobragade, 11/11/26
 
 ## 2. Engineering Scenario
 
