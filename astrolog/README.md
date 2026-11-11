@@ -198,4 +198,4 @@ Every fallible function returns a `Status_t`, and every return value is checked.
 
 ## GitHub Repository
 
-[https://github.com/<your-username>/astrolog](https://github.com/<your-username>/astrolog)
+[https://github.com/<your-username>/astrolog](https://github.com/manthankhobragade96/KPIT-Miniproject_telescopeloger/blob/main/astrolog)
